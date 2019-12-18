@@ -1,0 +1,374 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Titulo.unity
+    guid: e133326cc828b394caf61c7e305c8cca
+  - enabled: 1
+    path: Assets/Scenes/AntesDe.unity
+    guid: 9421d1b7d55653c4cb2ee573084ba47e
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Info.unity
+    guid: 9657e1c8f2aa45546af60b9c5e4c9a43
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/01_Hidrogeno.unity
+    guid: 7d7328ba95e9c6a45a816949452776d9
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/02_Helio.unity
+    guid: 325455eced5dccb498d268e6d88b245c
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/03_Litio.unity
+    guid: 3d62ad0d997de8347a52c43c8049328a
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/04_Berilio.unity
+    guid: b766720bb6b97a644ba6abe0116bd769
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/05_Boro.unity
+    guid: 5319f2222401643409b68e764bfb88bb
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/06_Carbono.unity
+    guid: b2fbc5f41dc742b44a46f62edd92bfc7
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/07_Nitrogeno.unity
+    guid: 11c48bcb1ee20084788173f4e9be51cc
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/08_Oxigeno.unity
+    guid: 8191901ce124a084dbd1c81212ae0252
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/09_Fluor.unity
+    guid: 0dceb818733af444ea7dac0b378a75cc
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/10_Neon.unity
+    guid: 63726bb491e1811479a2e58f20f5f993
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/11_Sodio.unity
+    guid: c3a580fdbcca247439cd321eca73186c
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/12_Magnesio.unity
+    guid: f17fb61f2998292439829423029a086f
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/13_Aluminio.unity
+    guid: f4ac581bd388877409ef9f3d7d8e1f84
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/14_Silicio.unity
+    guid: e314e42ac57331e4683e5ea86292d12e
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/15_Fosforo.unity
+    guid: 84ae3fcf652951e42ba5733a0c0510e9
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/16_Azufre.unity
+    guid: f246dc9cfc8fb79459727dc27a7a89ff
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/17_Cloro.unity
+    guid: 6c99f25d4bca37a42a73d5d078d4ca92
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/18_Argon.unity
+    guid: 10a36bb2976219e4e99e608030ef474a
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/19_Potasio.unity
+    guid: 54c8e01f4cd08ac4eb06b43132c3ca95
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/20_Calcio.unity
+    guid: 2a111aadb2c18814193060ed48e2d1a9
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/21_Escandio.unity
+    guid: f66c05560cfec7043bae0fe718ee16f6
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/22_Titanio.unity
+    guid: 5778c1c82e67b0f4ba03de8ad5db41d3
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/23_Vanadio.unity
+    guid: 83dabe7be54db924a889133bf929653e
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/24_Cromo.unity
+    guid: cfb3deb31a67d55498ad716f7b27438f
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/25_Manganeso.unity
+    guid: f2f532e3b9a1cda41a7a54ed94120023
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/26_Hierro.unity
+    guid: 26c7cb8c79daef342a4c260e4a7ac14c
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/27_Cobalto.unity
+    guid: af13047e716b52143b163e97facaae00
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/28_Niquel.unity
+    guid: cada96246f775414abcec9e628c357a6
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/29_Cobre.unity
+    guid: 3bcf4f02525df2d46a7e581a5dc2e922
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/30_Zinc.unity
+    guid: 3998472737e8a164984a09f94783d41a
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/31_Galio.unity
+    guid: d41105566fcb2634c913197c501501ce
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/32_Germanio.unity
+    guid: 9dad28ab91aa73940a4a6c148dd18d91
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/33_Arsenico.unity
+    guid: d05af74df69817e43aaa85af03e17bcb
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/34_Selenio.unity
+    guid: 7c44dff8c6d7b794f991e97651af2df2
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/35_Bromo.unity
+    guid: ddef09f3dd8791148b8e1a499491715b
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/36_Krypton.unity
+    guid: cc034fcc13428484d97d67257cc03942
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/37_Rubidio.unity
+    guid: 745e6b167557d404691191df0d36c9ec
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/38_Estroncio.unity
+    guid: c28c0a8769e04e4499a178de8416c40e
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/39_Itrio.unity
+    guid: 6e3790058a79c9849b2abce6bdeb17e4
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/40_Zirconio.unity
+    guid: 8ad119958975ed346bcb9050394f5433
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/41_Niobio.unity
+    guid: a8e60b14ffa6bc146884c56760bb868c
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/42_Molibdeno.unity
+    guid: 90d846bfdbac7fd418226ab5a9beae85
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/43_Tecnecio.unity
+    guid: 9ea40d0046c27a949a05aa24cb338f99
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/44_Rutenio.unity
+    guid: 0a5f141572b385243b622ad987605e1d
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/45_Rodio.unity
+    guid: 1e36caf06d3e0004da92050353396178
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/46_Paladio.unity
+    guid: d525a183f52af3a43a3706c108e65a45
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/47_Plata.unity
+    guid: 2482ebbc875a3d7459e93e69fefca906
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/48_Cadmio.unity
+    guid: 6c1ff0b842685bc4c9103c494f928fa8
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/49_Indio.unity
+    guid: ad0769fb92a280445a185e4ccbd5f2a3
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/50_Estano.unity
+    guid: 016d3de186356d548aac130cccc2963c
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/51_Antimonio.unity
+    guid: 156b06781ff50b64d8815f28261d4b08
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/52_Teluro.unity
+    guid: 0be08d15c4ca25c4da605a71f36c6010
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/53_Yodo.unity
+    guid: fa6f2f30e16fc2b4c917bf6a1b3be784
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/54_Xenon.unity
+    guid: 13fb00509144de74395ea1d4ed3276da
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/55_Cesio.unity
+    guid: 84991db5cedb8c14aa82610cb08e62ca
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/56_Bario.unity
+    guid: f7973487ca6b5cd439df629ab6621de1
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/57_Lantano.unity
+    guid: 838c96c52d87d5446b6f3a7a2687d4a3
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/58_Cerio.unity
+    guid: fe7824e8b9284a748948d237a597f390
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/59_Praseodimio.unity
+    guid: 84740ba8e1be4c942b4fa18bab2dea3f
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/60_Neodimio.unity
+    guid: 23a81f78f47336b48be32bea699a65f7
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/61_Prometio.unity
+    guid: 04bfd77b398d6304d936d66306ca891a
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/62_Samario.unity
+    guid: 87b534e91c48ec44bb3c2d735847fdfa
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/63_Europio.unity
+    guid: a5547c0624aced3438c14d5fc7073afc
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/64_Gadolinio.unity
+    guid: dabc4207fc9818a45b43f24ac75098da
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/65_Terbio.unity
+    guid: f0fe19b245ec6644487bca08d5e5be26
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/66_Disprosio.unity
+    guid: 15fe48052bffdc74ba800d82094c18b2
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/67_Holmio.unity
+    guid: e2365b28e134a7340bf1a8aa81183e1a
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/68_Erbio.unity
+    guid: ef0da40075cec3943991da930d885a96
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/69_Tulio.unity
+    guid: f8685387c0f5ccd4795238da4d0273d5
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/70_Iterbio.unity
+    guid: cd11f0c040d35634aa082b5af1ad175d
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/71_Lutecio.unity
+    guid: 1e6121ea914195347bd975fa0303550d
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/72_Hafnio.unity
+    guid: 0013a541db56a1548bd49eafc8051ac7
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/73_Tantalo.unity
+    guid: 62d345fe1f60bc34bb56e116513eca0d
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/74_Wolframio.unity
+    guid: 02dc276e006557a4180ea56c1f4fb81a
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/75_Renio.unity
+    guid: ee9fa21fa3bef304587190e01537abf6
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/76_Osmio.unity
+    guid: f8b23282e0bc5c44dadcc847a786ef00
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/77_Iridio.unity
+    guid: 037f959f6f3ffe2468647d96f7929e2a
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/78_Platino.unity
+    guid: 0ab29bdebcd1a9a40b9f7c6b6b97d055
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/79_Oro.unity
+    guid: 0ef173ca7ab04654080e8d869d4d4d98
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/80_Mercurio.unity
+    guid: a731b3a3d774fef48a3081285c08ee2f
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/81_Talio.unity
+    guid: 057f0538ef5801745a33d8f22af61e7c
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/82_Plomo.unity
+    guid: bef343750edc4834cac8d8463a2eb768
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/83_Bismuto.unity
+    guid: cbd71c5e66b1e924791450ba7d92f38e
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/84_Polonio.unity
+    guid: 59c685efc6dcdf945b7ba1112fa43863
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/85_Astato.unity
+    guid: ec92370cba078934580692bf5c1b45c3
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/86_Radon.unity
+    guid: 350974d8b60348847876258b03379f3c
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/87_Francio.unity
+    guid: 74cd1d6dc7d70fc45b0b9d5efe0937bf
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/88_Radio.unity
+    guid: 16a191a428eece547ad50614b80c14c8
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/89_Actinio.unity
+    guid: af385f8423ede1e4cbe3c3247457d44b
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/90_Torio.unity
+    guid: 3de5218f402dfcb44b617316e380565f
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/91_Protactinio.unity
+    guid: 257940c30d135f74ba2bdb350db14751
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/92_Uranio.unity
+    guid: a7a9f97cc256a3649a89c6f3ed941425
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/93_Neptunio.unity
+    guid: 72624f1cc1161f249b9ce27b3d880716
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/94_Plutonio.unity
+    guid: a0d23959c271b5340951eb78ae13fb95
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/95_Americio.unity
+    guid: 705128007accca24fba677622fa56cd4
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/96_Curio.unity
+    guid: 20368c1247769524980bbe9eb07bdda2
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/97_Berkelio.unity
+    guid: 46a1c82d1d67fff4a981d6cd8aeb2325
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/98_Californio.unity
+    guid: 1575bbb5339b1a243803c64ad7c12d35
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/99_Einstenio.unity
+    guid: fe7b8014fd6b576498a58433f4e7b29a
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/100_Fermio.unity
+    guid: f8fb3ab565ca7b74ab9fffacbe22402c
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/101_Mendelevio.unity
+    guid: 86146f0efafc668449dbed8c27659e65
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/102_Nobelio.unity
+    guid: e84e0baa87028d1468ae7531a6d8036c
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/103_Lawrencio.unity
+    guid: 3382a7c728899284fbbd5c9dab44a91e
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/104_Rutherfordio.unity
+    guid: eb4158322552fa841b55d4b5b825a590
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/105_Dubnio.unity
+    guid: d613da035fbdcd94e8299b9ec779a24b
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/106_Seaborgio.unity
+    guid: 8cbd04d2aff5bd2479d9a39c1b95f0e7
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/107_Bohrio.unity
+    guid: c61f6ae4d232600469aa7683d3ce9854
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/108_Hasio.unity
+    guid: b050765b6b38cef4993413cf6b394f52
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/109_Meitnerio.unity
+    guid: d4776895df7e07543bca5e104a9992e4
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/110_Darmstadio.unity
+    guid: b1d26e61aa4d43f4a90fed99995ff252
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/111_Roentgenio.unity
+    guid: 059df9197e11e0d438aa80f4c03f71a4
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/112_Copernicio.unity
+    guid: 784c071b8af11bb4d92fd093d81e8d69
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/113_Nihonio.unity
+    guid: ea98c5eaac7fd6548be6d35e5ffa2ce1
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/114_Flerovio.unity
+    guid: 56a0d4c367ded51439f805379475961a
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/115_Moscovio.unity
+    guid: 49a698183e13b544f9d287ebab2e34db
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/116_Livermorio.unity
+    guid: 2906028e438e6714ea192cd4ad8bf406
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/117_Teneso.unity
+    guid: 11e27665063966746923043d7e2fc469
+  - enabled: 1
+    path: Assets/Scenes/UsosEstado/118_Oganeson.unity
+    guid: 613bbaf13b1884941bed07e03787ccc3
+  m_configObjects: {}
